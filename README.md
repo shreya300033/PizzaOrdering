@@ -19,7 +19,7 @@ This is a simple Python script for ordering pizzas with options for different si
 1. Clone the repository to your local machine:
 
    ```bash
-  git clone https://github.com/shreya300033/PizzaOrdering.git
+   git clone https://github.com/shreya300033/PizzaOrdering.git
    ```
 
 2. Navigate to the project directory:
